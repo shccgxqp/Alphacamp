@@ -1,0 +1,12 @@
+.i {
+  margin: 5px
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-title {
+  margin: auto 10px;
+}
